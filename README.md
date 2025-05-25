@@ -1,8 +1,7 @@
-# Jeu de Pendu (Hangman) en Scala
+# Tic Tac Toe en Scala
+Implémentation complète du morpion montrant :
 
-### Un jeu interactif en console démontrant :
-
-- Gestion des strings et caractères
-- Logique de jeu avec boucles
-- Interaction utilisateur
-- Gestion d'état
+- Structures de données 2D
+- Logique de victoire
+- Interface utilisateur en console
+- Programmation orientée objet
